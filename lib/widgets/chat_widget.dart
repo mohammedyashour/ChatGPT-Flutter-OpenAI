@@ -34,10 +34,12 @@ class ChatWidget extends StatelessWidget {
                 Expanded(
                   child: chatIndex == 0
                       ? TextWidget(
+
                     label: msg,
                   )
                       : DefaultTextStyle(
                     style: const TextStyle(
+
                         color: Colors.white,
                         fontWeight: FontWeight.w700,
                         fontSize: 16),

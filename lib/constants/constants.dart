@@ -4,6 +4,9 @@ import '../widgets/text_widget.dart';
 
 Color scaffoldBackgroundColor = const Color(0xFF343541);
 Color cardColor = const Color(0xFF444654);
+Color green = const Color(0xFF00A67E);
+Color dark = const Color(0xFF242533);
+
 const String appName="ChatGPT";
 const String editTextHint="How can I help you";
 
