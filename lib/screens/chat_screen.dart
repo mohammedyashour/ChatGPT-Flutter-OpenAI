@@ -11,7 +11,6 @@ import '../provider/models_provider.dart';
 import '../services/assets_manager.dart';
 import '../widgets/chat_widget.dart';
 import '../widgets/text_widget.dart';
-
 class ChatScreen extends StatefulWidget {
   const ChatScreen({super.key});
 
